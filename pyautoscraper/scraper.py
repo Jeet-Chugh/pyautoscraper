@@ -1,4 +1,4 @@
-from bs4           import BeautifulSoup, Comment
+from bs4 import BeautifulSoup, Comment
 import requests
 
 class Scraper():
@@ -55,9 +55,3 @@ class Scraper():
 
 class URLerror(Exception):
     pass
-class WebscrapingError(Exception):
-    pass
-
-if __name__ == "__main__":
-    scraper = AutoScraper("https://webscraper.io/test-sites/e-commerce/allinone")
-    print(scraper.HTML)
