@@ -5,3 +5,8 @@ CHANGELOG:
 ----------------
 - GitHub Commit
 - Published to PyPi
+
+0.0.2 (10/6/20):
+----------------
+- Updated README
+- Fixed Bug
