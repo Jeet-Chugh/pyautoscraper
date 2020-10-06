@@ -9,9 +9,9 @@ classifiers = [
 ]
 
 setup(
-    name='autoscraper',
-    version='0.0.1',
-    description="A lightweight module which automates webscraping with Python",
+    name='pyautoscraper',
+    version='0.0.2',
+    description="A lightweight python module which automates webscraping and parsing through HTML",
     long_description_content_type='text/markdown',
     long_description=open('README.md','r').read() + '\n\n' + open('changelog.txt','r').read(),
     url='https://github.com/Jeet-Chugh/pyautoscraper',
