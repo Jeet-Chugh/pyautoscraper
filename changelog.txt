@@ -1,0 +1,7 @@
+CHANGELOG:
+==============
+
+0.0.1 (10/5/20):
+----------------
+- GitHub Commit
+- Published to PyPi
